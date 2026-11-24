@@ -70,7 +70,7 @@ Codex에는 자동 배치를 맡기면서 뽑기 비용과 준비 중 이동 규
 
 [패킷 처리와 승패 동기화 사례](windows-tcp.md) · [원본 코드와 실행 방법](https://github.com/mjcjc/WindowProgrammingTCP#readme)
 
-### ServerCore
+### 채팅 분산 서버
 
 **송신 큐에서 꺼낸 데이터는 언제 용량에서 빼야 할까?**
 
