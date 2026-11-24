@@ -1,4 +1,4 @@
-# ServerCore
+# 채팅 분산 서버
 
 [포트폴리오로 돌아가기](README.md) · [원본 저장소와 기술 정리](https://github.com/mjcjc/ServerCore)
 
