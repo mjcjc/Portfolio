@@ -28,7 +28,7 @@
 
 ## PROJECT
 
-### 랜덤 타워디펜스
+### 1.랜덤 타워디펜스
 
 **무작위로 나온 포탑을 무엇으로 조합하고, 어떤 유니크에 투자할까?**
 
@@ -43,7 +43,7 @@
 
 [포탑 합성과 유니크 운용](tower-defense.md#unique) · [시연 피드백을 반영한 과정](tower-defense.md#draw) · [게임 설계와 코드](https://github.com/mjcjc/TowerDefense#readme)
 
-### Vida de Granjero
+### 2. Vida de Granjero
 
 **플레이어의 이동 요청을 받아, 모두가 공유하는 농장 상태로.**
 
@@ -57,7 +57,7 @@
 
 [이동 검증과 연동 과정](vida-de-granjero.md) · [원본 코드](https://github.com/mjcjc/vida_de_granjero)
 
-### TCP 멀티플레이 블록 게임
+### 3. TCP 멀티플레이 블록 게임
 
 **같은 경기가 끝났는데, 두 화면에 서로 다른 승자가 떴습니다.**
 
@@ -70,7 +70,7 @@
 
 [패킷 처리와 승패 동기화 사례](windows-tcp.md) · [원본 코드와 실행 방법](https://github.com/mjcjc/WindowProgrammingTCP#readme)
 
-### 채팅 분산 서버
+### 4. 채팅 분산 서버
 
 **GameServer가 여러 대일 때, 새 접속은 어디로 보내고 다른 채널의 채팅은 어떻게 전달할까?**
 
