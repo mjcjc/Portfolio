@@ -6,7 +6,7 @@
 
 [뽑기 조작 개선](#draw) · [냉각포 효과 표시](#frost)
 
-전체 게임 설계서와 클래스 분리 설계안 PDF는 공개용 문서를 준비 중입니다.
+[타워디펜스 설계 보기](https://github.com/mjcjc/TowerDefense/blob/main/README.md)에서 전투·합성·AI 예측의 흐름과 클래스별 역할을 확인할 수 있습니다.
 
 <a id="draw"></a>
 
